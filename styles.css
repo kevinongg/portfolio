@@ -1,0 +1,27 @@
+nav {
+  padding: 10px;
+  display: flex;
+  color:aliceblue;
+  background-color: black;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+footer {
+  padding: 50px;
+  align-items: center;
+  width: 100px;
+  background-color:aquamarine;
+  display: flex;
+}
+
+img {
+  width: 300px;
+  height: 400px;
+}
+
+h1 {
+  border: 5px dotted white;
+  padding: 5px;
+}
